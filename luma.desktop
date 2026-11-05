@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Luma
+GenericName=Media Player
+Comment=Liquid-glass video and music player
+Exec=/opt/luma/luma.sh %F
+Icon=/opt/luma/assets/logo-256.png
+Terminal=false
+Categories=AudioVideo;Video;Audio;Player;
+MimeType=video/mp4;video/x-matroska;video/webm;video/quicktime;video/x-msvideo;audio/mpeg;audio/flac;audio/ogg;audio/x-wav;audio/mp4;
+StartupWMClass=luma
